@@ -839,6 +839,12 @@
             "https://github.com/cloudfoundry/windows_app_lifecycle",
             "https://github.com/cloudfoundry/workpool",
             "https://github.com/cloudfoundry/yagnats"
+        ],
+        "mbox": [
+          "cf-dev /home/bitergia/mboxes/cf-dev@lists.cloudfoundry.org.mbox",
+          "cf-bosh /home/bitergia/mboxes/cf-bosh@lists.cloudfoundry.org.mbox",
+          "cf-ambassadors /home/bitergia/mboxes/cf-ambassadors@lists.cloudfoundry.org.mbox",
+          "cf-speakers /home/bitergia/mboxes/cf-speakers@lists.cloudfoundry.org.mbox"
         ]
     }
 }
